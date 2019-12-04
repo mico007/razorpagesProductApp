@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Regis Safari\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Regis Safari\\.nuget\\packages"
+    ]
+  }
+}
